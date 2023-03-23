@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kids-t-shirt-mockup-koala-bear-toy-white-kids-cotton-t-shirt-mockup-koala-bear-soft-toy-blue-jeans-design-t-shirt-180203217.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
